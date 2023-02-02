@@ -8,7 +8,7 @@
 </div>  
   
 
-#  About Me 👨‍💻:
+# 👨‍💻 About Me:
 ### <div align="center">I'm Osman Can, a Computer Engineering student at Karadeniz Technical University. 👨‍💻</div>  
   
 
@@ -36,7 +36,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=osmancanaksoy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=osmancanaksoy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Connect with me  
+## Connect with me 🤝:  
 <div align="center">
 <a href="https://github.com/osmancanaksoy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
