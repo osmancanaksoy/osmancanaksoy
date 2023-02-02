@@ -9,7 +9,7 @@
   
 
 #  About Me 👨‍💻:
-### <div align="center">I'm Osman Can, a computer engineering student at Karadeniz Technical University. 👨‍💻</div>  
+### <div align="center">I'm Osman Can, a Computer Engineering student at Karadeniz Technical University. 👨‍💻</div>  
   
 
 - 🎓  Studying Computer Engineering  
