@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 </div>  
   
 
-![](https://raw.githubusercontent.com/osmancanaksoy/osmancanaksoy/main/gif3.gif)  
+<div align="center">
+![](https://raw.githubusercontent.com/osmancanaksoy/osmancanaksoy/main/gif3.gif)
+</div>
   
 
 ### <div align="center">I'm Osman Can, a computer engineering student at Karadeniz Technical University. 👨‍💻</div>  
