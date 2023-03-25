@@ -4,7 +4,7 @@
   
 
 <div align="right">
-<img src="https://raw.githubusercontent.com/osmancanaksoy/osmancanaksoy/main/gif3.gif" align="right"  style="width: 50%" />
+<img src="https://raw.githubusercontent.com/osmancanaksoy/osmancanaksoy/main/gif3.gif"  height="250" width="" />
 </div>  
   
 
