@@ -3,7 +3,7 @@
 </div>  
   
 
-<div align="right">
+<div align="center">
 <img src="https://raw.githubusercontent.com/osmancanaksoy/osmancanaksoy/main/gif3.gif" align="right" height="250" width="" />
 </div>  
   
