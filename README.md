@@ -1,11 +1,10 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-<img src="https://raw.githubusercontent.com/osmancanaksoy/osmancanaksoy/main/gif3.gif" align="right" height="250" width="" />
 </div>  
   
 
-<div align="center">
-
+<div align="right">
+<img src="https://raw.githubusercontent.com/osmancanaksoy/osmancanaksoy/main/gif3.gif" align="right" height="250" width="" style="width: 50%" />
 </div>  
   
 
