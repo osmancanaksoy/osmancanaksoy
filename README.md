@@ -19,7 +19,7 @@
 - 🤔  Exploring new technologies and developing software solutions  
   
 
--  🧐 Enthusiast in Image Processing, Artificial Intelligence and Embedded Software  
+-  🧐 Enthusiast in Image Processing,Computer Vision and Artificial Intelligence 
   
 
 <br/>
