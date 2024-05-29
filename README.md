@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/osmancanaksoy/osmancanaksoy/main/gif3.gif" width="400" height="300"/></p>  
 
-# 👨‍💻 About Me:
+### 👨‍💻 About Me:
 ### <div align="center">I'm Osman Can, a Computer Engineering student at Karadeniz Technical University. 👨‍💻</div>
   
 
@@ -21,10 +21,10 @@
 
 <br/>
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![Overview](https://raw.githubusercontent.com/osmancanaksoy/github-stats-transparent/output/generated/overview.svg) ![Most Used Languages](https://github.com/osmancanaksoy/github-stats-transparent/blob/output/generated/languages.svg)
 
 <!-- WEATHER:START -->
@@ -32,7 +32,7 @@
 <p align="center">Currently, the weather is: <b>19°C, <img src="https://openweathermap.org/img/wn/04n.png" width="28" height="28"> <i>(broken clouds)</i></b></p>
 <!-- WEATHER:END -->
 
-## Connect With Me 🤝:  
+### 🤝 Connect With Me:  
 <div align="center">
 <a href="https://github.com/osmancanaksoy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
