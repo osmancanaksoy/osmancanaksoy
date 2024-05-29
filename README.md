@@ -25,7 +25,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=osmancanaksoy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Overview](https://raw.githubusercontent.com/osmancanaksoy/github-stats-transparent/output/generated/overview.svg) ![Most Used Languages](https://github.com/osmancanaksoy/github-stats-transparent/blob/output/generated/languages.svg)
 
 <!-- WEATHER:START -->
 <h3 align="center">Hello from Trabzon province of <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" width="28" height="21"/></h3>
