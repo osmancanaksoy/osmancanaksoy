@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/osmancanaksoy/osmancanaksoy/main/gif3.gif" align="right" height="250" width="" />
-</div>  
-  
+<p align="center"><img src="https://raw.githubusercontent.com/osmancanaksoy/osmancanaksoy/main/gif3.gif"/></p>  
 
 # 👨‍💻 About Me:
 ### <div align="center">I'm Osman Can, a Computer Engineering student at Karadeniz Technical University. 👨‍💻</div>
