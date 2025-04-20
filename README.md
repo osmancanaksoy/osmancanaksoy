@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/osmancanaksoy/osmancanaksoy/main/gif3.gif" width="400" height="300"/></p>  
 
 ### 👨‍💻 About Me:
-### <div align="center">I'm Osman Can, a Computer Engineering student at Karadeniz Technical University. 👨‍💻</div>
+### <div align="center">I'm Osman Can, a Computer Engineering master student at Karadeniz Technical University. 👨‍💻</div>
   
 
 - 🎓  Studying Computer Engineering  
