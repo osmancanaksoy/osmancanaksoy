@@ -7,12 +7,6 @@
 - 🎓  Studying Computer Engineering  
   
 
-- 🔭 I'm currently working on Object Tracking with OpenCV [Object Tracking](https://github.com/osmancanaksoy/Object-Tracking.git)  
-  
-
-- 🌱 I am currently learning Qt Framework  
-  
-
 - 🤔  Exploring new technologies and developing software solutions  
   
 
