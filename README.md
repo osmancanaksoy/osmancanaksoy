@@ -36,6 +36,5 @@
 </a>
 <a href="https://instagram.com/osmancanaksoy" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram  />
-</a>  
-</div>  
-
+</a>
+</div>
