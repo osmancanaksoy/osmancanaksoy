@@ -23,7 +23,7 @@
 
 <!-- WEATHER:START -->
 <h3 align="center">Hello from Trabzon province of <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" width="28" height="21"/></h3>
-<p align="center">Currently, the weather is: <b>7°C, <img src="https://openweathermap.org/img/wn/03n.png" width="28" height="28"> <i>(scattered clouds)</i></b></p>
+<p align="center">Currently, the weather is: <b>8°C, <img src="https://openweathermap.org/img/wn/04d.png" width="28" height="28"> <i>(broken clouds)</i></b></p>
 <!-- WEATHER:END -->
 
 ### 🤝 Connect With Me:  
